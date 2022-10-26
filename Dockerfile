@@ -1,3 +1,4 @@
+#Dockerfile is used to create the image of the application
 #Base image we are going to use
 FROM alpine
 WORKDIR /root/abc
