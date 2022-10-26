@@ -9,10 +9,6 @@ public class Test_All{
 
           Test_All abc = new Test_All();
           System.out.println("#######" + abc.add());
-          
-           
-
-
      }
 
 }
